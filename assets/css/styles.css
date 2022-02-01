@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+  margin: 0;
+}
+
+container {
+  max-width: unset;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.root {
+  height: 100%;
+  display: flex;
+}
+
