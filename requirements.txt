@@ -1,8 +1,0 @@
-praw
-flask
-yt-dlp
-requests
-markdown
-gunicorn
-ratelimit
-gunicorn[gevent]
